@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django Rest Framework, aiogram, software architecture**
 
-- 💬 Ask me about **drf, django, fastapi**
+- 💬 Ask me about **Django Rest Framework, django, fastapi**
 
 - 📫 How to reach me **akhundov1murad@gmail.com**
 
