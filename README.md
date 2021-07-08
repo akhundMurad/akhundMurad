@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Online Gymnasium**
 
-- 🌱 I’m currently learning **Django Rest Framework, aiogram, software architecture**
+- 🌱 I’m currently learning **Django Rest Framework, FastAPI, Aiogram, Software Architecture**
 
-- 💬 Ask me about **Django Rest Framework, django, fastapi**
+- 💬 Ask me about **Django Rest Framework, Django, FastAPI**
 
 - 📫 How to reach me **akhundov1murad@gmail.com**
 
