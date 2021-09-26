@@ -7,7 +7,10 @@
 
 - 💬 Ask me about **Django Rest Framework, Django, FastAPI**
 
-- 📫 How to reach me **akhundov1murad@gmail.com**
+- 📫 How to reach me 
+- Gmail - **akhundov1murad@gmail.com**
+- Linkedin - **https://www.linkedin.com/in/akhundov1murad/**
+- Telegram - **@qutablar**
 
 
 <h3 align="left">Languages and Tools:</h3>
