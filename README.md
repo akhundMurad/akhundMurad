@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Online Gymnasium**
 
-- 🌱 I’m currently learning **Django Rest Framework, FastAPI, Aiogram, Software Architecture**
+- 🌱 I’m currently learning **Domain Driven Design, DRF, FastAPI**
 
 - 💬 Ask me about **Django Rest Framework, Django, FastAPI**
 
