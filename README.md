@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">A backend developer from Baku</h3>
 
-- 🔭 I’m currently working on **Online Gymnasium**
+- 🔭 I’m currently working on **Cure Media**
 
 - 🌱 I’m currently learning **Domain Driven Design, DRF, FastAPI**
 
