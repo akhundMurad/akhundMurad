@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Devox Software**
 
-- 🌱 I’m currently learning **Domain Driven Design, DRF, FastAPI**
-
-- 💬 Ask me about **Django Rest Framework, Django, FastAPI**
+- 🌱 I’m currently learning **Domain Driven Design, Google Cloud Platform, Data Engineering**
 
 - 📫 How to reach me 
 - Gmail - **akhundov1murad@gmail.com**
