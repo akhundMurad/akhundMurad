@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhundov1murad) 
 <h1 align="left">Hi 👋, I'm Murad</h1>
-<h3 align="left">Software Engineer (Python) | AI-enthusiast</h3>
+<h3 align="left">Senior Software Engineer (Python) AI-enthusiast</h3>
 
 Result-oriented Senior Software Engineer with several years of enterprise experience. Deep experience in designing and implementing scalable software architectures and ensuring alignment with business goals and technical requirements. Proven track record of developing and maintaining FP\&A Systems, Learning Management Systems, Internet Marketing Platforms. Passionate about Artificial Intelligence and Cloud Technologies. Currently, thoroughly mastering Machine Learning (especially Computer Vision). Contributed to a variety of open-source projects.
 
